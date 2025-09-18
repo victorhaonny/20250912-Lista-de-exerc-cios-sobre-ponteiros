@@ -1,0 +1,1 @@
+# 20250912-Lista-de-exerc-cios-sobre-ponteiros
