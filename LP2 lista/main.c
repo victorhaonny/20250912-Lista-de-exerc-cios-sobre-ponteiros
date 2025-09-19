@@ -12,6 +12,5 @@
         printf("\nO valor apontado por ponteiro: %d",*Ponteiro);
         printf("\n");
         system("PAUSE");
-
         return 0;
     }
